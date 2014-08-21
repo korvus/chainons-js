@@ -1,31 +1,31 @@
 chainons-js
 ==
 
-list of little useful javascript snippets used for widgets
+list of little useful javascript snippets used for widgets (Affinitad-Twenga project)
 
   - randomPercent.js
-        - hasard()
+    - hasard()
   - formatagePrice.js
-        - removeDecimal()
-        - addDecimals()
-        - currencySwitch()
+    - removeDecimal()
+    - addDecimals()
+    - currencySwitch()
   - DOMsibling.js
-        - nextSibling()
-        - prevSibling()
-        - getElementByClassName()
+    - nextSibling()
+    - prevSibling()
+    - getElementByClassName()
   - cutText.js
-        - cutText()
+    - cutText()
   - colorConvertor.js
-        - cutHex();
-        - hexToR();
-        - hexToG();
-        - hexToB();
+    - cutHex();
+    - hexToR();
+    - hexToG();
+    - hexToB();
   - addJSfile.js
-        - addScript()
+    - addScript()
   - addCSSfile.js
-        - addCSS()
+    - addCSS()
   - addClass.js
-        - addClass()
+    - addClass()
 
 You can see all detailed explanations in example.php.
 For use function, copy paste directly from library, it's easy to adapt.
